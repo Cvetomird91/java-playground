@@ -3,6 +3,8 @@ import java.time.format.DateTimeFormatter;
 import java.time.format.FormatStyle;
 import java.time.Month;
 
+import java.net.SocketException;
+
 //basic examples of the Java 8 date/time API
 
 public class Timing extends MyClass {
